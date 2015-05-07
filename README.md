@@ -36,7 +36,7 @@ User can pass message with no title.
 ```
 
 
-## Show Message without title
+## Show Message with error title
 
 When the user passes error messages the title will be displayed as error
 
@@ -45,3 +45,8 @@ When the user passes error messages the title will be displayed as error
 [UIAlertView showErrorMessage:@"Invalid email address"];
 
 ```
+
+
+## License
+
+This is available under the MIT license. See the LICENSE file for more info.
